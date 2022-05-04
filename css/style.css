@@ -368,11 +368,11 @@ box-shadow: 1px 4px 6px 0px rgba(0, 0, 0, 0.16),
 }
 
 .projects__card-title{
-        margin-bottom: 4px;
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 2;
-        letter-spacing: 0.06em;
+        margin-bottom:4px;
+        font-weight:700;
+        font-size:18px;
+        line-height:2;
+        letter-spacing:0.06em;
         color: var(--title-color);
 }
 /*Футер*/
